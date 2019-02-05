@@ -1,9 +1,6 @@
-# Pidetect
-Human-detection via Raspberry Pi
+# Human-detect
+Human-detection via Raspberry Pi, OpenCV and Python
 
-Triggering a relay on detection of a human being.
+Triggering GPIO No 40 of raspberry pi on detection of a human being.
 
-Classifier being used - Haar Cascade Classifiers from OpenCV's github page
-
-Base program is based on answer given here - https://stackoverflow.com/questions/34026097/using-a-pi-camera-module-with-opencv-python. Full credit goes to stackoverflow user ballsatballsdotballs.
-
+Classifier being used - Haar Cascade Classifiers from OpenCV's github page.
